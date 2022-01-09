@@ -13,7 +13,7 @@ function showNumbers() {
         let counter = document.createElement("h1");
         counter.innerHTML = (i + 1).toString();
         counter.style.position = "absolute";
-        counter.style.right = "100px";
+        counter.style.right = "30px";
         counter.style.top = "30px";
         counter.style.fontSize = "25px";
         positionHolder.appendChild(counter);
