@@ -18,4 +18,4 @@ Just press the number that corresponds to the link you want to open.
 1. Press u
 2. Open as many links as you want via the number keys
 
-After 400ms, all the links will be opened in new tabs.
+After 400ms from the time you press u, all the links will be opened in new tabs.
